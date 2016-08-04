@@ -1,0 +1,18 @@
+div.card {
+  margin: 10px 0;
+}
+
+div.inner {
+  padding: 10px;
+ 
+  border-radius: 3px;
+}
+div.main {
+  margin: 20px;
+}
+
+div.guestbook__list {
+  padding: 20px;
+}
+
+
